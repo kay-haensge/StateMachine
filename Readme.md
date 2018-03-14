@@ -1,3 +1,5 @@
+# StateMachine based on enums
+
 ## Test
     mvn test
 
